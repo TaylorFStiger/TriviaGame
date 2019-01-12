@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+
+
+#questions-container {
+    color: white;
+}
+
+    input[type=radio] {
+    border: 0px;
+    width: 5%;
+    height: 0.9em;
+}
+
